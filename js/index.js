@@ -13,10 +13,8 @@ $(document).ready(function() {
 
     const buildUrl = `${BUILD_ENDPOINT}/${repoUrl}/${ref}?urlpath=${url}`;
 
-    console.log("Redirecting to", buildUrl);
-
     $("#loading_modal").modal({
-      backdrop: "static", 
+      backdrop: "static",
       keyboard: false,
       show: true
     });
@@ -29,13 +27,11 @@ $(document).ready(function() {
     evtSource.onmessage = function(event) {
       const data = JSON.parse(event.data);
       $("#loader_text").html(data.phase);
-      console.log(data);
       if (data.phase === "ready") {
         const redirectUrl = data.url;
         const token = data.token;
         const redirect = `${redirectUrl}${url}?token=${token}`;
         $("#loader_text").html("Redirecting to " + redirect);
-        console.log(redirect);
         window.location.href = redirect;
       }
     };
