@@ -28,10 +28,11 @@ $(document).ready(function() {
       const data = JSON.parse(event.data);
       $("#loader_text").html(data.phase);
       if (data.phase === "ready") {
+        evtSource.close();
         const redirectUrl = data.url;
         const token = data.token;
         const redirect = `${redirectUrl}${url}?token=${token}`;
-        $("#loader_text").html("Redirecting to " + redirect);
+        $("#loader_text").html("Launching");
         window.location.href = redirect;
       }
     };
