@@ -2,6 +2,8 @@
 
 ![voila-gallery-logo](./voila-gallery.svg)
 
+![Github Actions Status](https://github.com/voila-gallery/voila-gallery.github.io/workflows/CI/badge.svg)
+
 This is a gallery of [Voilà](https://github.com/voila-dashboards/voila)
 examples. Use this for inspiration on using Voilà and
 [ipywidgets](https://github.com/jupyter-widgets/ipywidgets).
