@@ -74,3 +74,10 @@
   repo_url: https://github.com/voila-dashboards/voila-material
   ref: 6e88fefc5a2619b77959c7013cb10bf2c3fd1f8e
   image_url: https://raw.githubusercontent.com/voila-dashboards/voila-material/master/material_light.png
+
+- title: visium-clustergrammer2
+  description: Visium Spatial Transcriptomics Data Visualization using Clustergrammer2
+  url: voila/render/index.ipynb
+  ref: 20343dd74a39edd1992ed4f26e3c9dcf120fd9e9
+  repo_url: https://github.com/ismms-himc/visium-clustergrammer2
+  image_url: https://raw.githubusercontent.com/ismms-himc/visium-clustergrammer2/master/img/small_visium_gif.gif
