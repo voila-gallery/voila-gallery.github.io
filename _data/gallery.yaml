@@ -78,6 +78,6 @@
 - title: visium-clustergrammer2
   description: Visium Spatial Transcriptomics Data Visualization using Clustergrammer2
   url: voila/render/index.ipynb
-  ref: 7008413491bc0be770f708f4665511b1d9133696
+  ref: 20343dd74a39edd1992ed4f26e3c9dcf120fd9e9
   repo_url: https://github.com/ismms-himc/visium-clustergrammer2
-  image_url: https://raw.githubusercontent.com/ismms-himc/visium-clustergrammer2/master/img/visium-clustergrammer2_borderless_small.gif
+  image_url: https://raw.githubusercontent.com/ismms-himc/visium-clustergrammer2/master/img/small_visium_gif.gif
