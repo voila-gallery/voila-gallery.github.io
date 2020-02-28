@@ -81,3 +81,10 @@
   ref: 20343dd74a39edd1992ed4f26e3c9dcf120fd9e9
   repo_url: https://github.com/ismms-himc/visium-clustergrammer2
   image_url: https://raw.githubusercontent.com/ismms-himc/visium-clustergrammer2/master/img/small_visium_gif.gif
+
+- title: voila-ipympl
+  description: Interactive matplotlib in a Voila dashboard
+  url: voila/render/ipympl.ipynb
+  repo_url: https://github.com/voila-gallery/ipympl
+  ref: 488dd54eed412e8be19245e86c0542e2087dd91f
+  image_url: https://github.com/voila-gallery/ipympl/raw/master/thumbnail.png
