@@ -88,3 +88,10 @@
   repo_url: https://github.com/voila-gallery/ipympl
   ref: 488dd54eed412e8be19245e86c0542e2087dd91f
   image_url: https://github.com/voila-gallery/ipympl/raw/master/thumbnail.png
+
+- title: voila-spotify
+  description: Spotify activity viewer in a Github activity fashion, using ipympl
+  url: voila/render/Spotify_viewer.ipynb
+  repo_url: https://github.com/voila-gallery/voila-spotify
+  ref: 625f0d3eb7472db4f355fdd8ab522c5bebf291c7
+  image_url: https://github.com/voila-gallery/voila-spotify/raw/master/thumbnail.png
