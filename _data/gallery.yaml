@@ -16,7 +16,7 @@
   description: Explore STL files with ipyvolume
   url: voila/render/index.ipynb
   repo_url: https://github.com/voila-gallery/render-stl
-  ref: 23182d099e3b97bce3f64ec383d93ddc4734fe17
+  ref: 8d24ce5e8c2b5d7b8b4e3a909290dee2eef84f57
   image_url: https://github.com/voila-gallery/render-stl/raw/master/thumbnail.png
 
 - title: cpp-xleaflet
