@@ -95,3 +95,11 @@
   repo_url: https://github.com/voila-gallery/voila-spotify
   ref: 625f0d3eb7472db4f355fdd8ab522c5bebf291c7
   image_url: https://github.com/voila-gallery/voila-spotify/raw/master/thumbnail.png
+  
+  
+- title: citibike-clustergrammer2
+  description: Citi Bike Data Visualization using Clustergrammer2 and Bqplot
+  url: voila/render/index.ipynb
+  ref: c3eccddc558722522ed5aa32afcbfc32ee7297d0
+  repo_url: https://github.com/cornhundred/citibike-clustergrammer2
+  image_url: https://raw.githubusercontent.com/cornhundred/citibike-clustergrammer2/blob/master/img/small_gif.gif
