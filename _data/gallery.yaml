@@ -95,11 +95,17 @@
   repo_url: https://github.com/voila-gallery/voila-spotify
   ref: 625f0d3eb7472db4f355fdd8ab522c5bebf291c7
   image_url: https://github.com/voila-gallery/voila-spotify/raw/master/thumbnail.png
-  
-  
+
 - title: citibike-clustergrammer2
   description: Citi Bike Data Visualization using Clustergrammer2 and Bqplot
   url: voila/render/index.ipynb
   ref: c3eccddc558722522ed5aa32afcbfc32ee7297d0
   repo_url: https://github.com/cornhundred/citibike-clustergrammer2
   image_url: https://raw.githubusercontent.com/cornhundred/citibike-clustergrammer2/master/img/small_gif.gif
+
+- title: jupyter-flex
+  description: Easy interactive dashboards for Jupyter
+  url: voila/render/examples/movie-explorer.ipynb
+  ref: b202af9ea05029a39e667be9da1f72257a6a82b3
+  repo_url: https://github.com/danielfrg/jupyter-flex
+  image_url: https://jupyter-flex.extrapolations.dev/assets/img/screenshots/movie-explorer.png
