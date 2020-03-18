@@ -109,3 +109,10 @@
   ref: b202af9ea05029a39e667be9da1f72257a6a82b3
   repo_url: https://github.com/danielfrg/jupyter-flex
   image_url: https://jupyter-flex.extrapolations.dev/assets/img/screenshots/movie-explorer.png
+
+- title: covid-plots
+  description: Explore lag between France’s and Italy’s coronavirus numbers
+  url: voila/render/covid_it_fr_lag.ipynb
+  ref: 4ccbc6bb554af0b0c0918a77da73de93a83cb046
+  repo_url: https://github.com/mkcor/covid-plots
+  image_url: https://raw.githubusercontent.com/mkcor/covid-plots/master/img/screenshot_covid_app.png
