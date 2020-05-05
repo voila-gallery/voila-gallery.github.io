@@ -113,6 +113,6 @@
 - title: covid-plots
   description: Explore lag between France’s and Italy’s coronavirus numbers
   url: voila/render/covid_it_fr_lag.ipynb
-  ref: 4ccbc6bb554af0b0c0918a77da73de93a83cb046
+  ref: 4b4b45f419adc8e4e9e2a8983825f3ddff284211
   repo_url: https://github.com/mkcor/covid-plots
   image_url: https://raw.githubusercontent.com/mkcor/covid-plots/master/img/screenshot_covid_app.png
