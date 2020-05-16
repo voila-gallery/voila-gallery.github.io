@@ -23,7 +23,7 @@
   description: Interactive maps with xleaflet and the C++ kernel
   url: voila/render/index.ipynb
   repo_url: https://github.com/voila-gallery/cpp-xleaflet
-  ref: 9d29b2a8e2ec5f18f40dc4c898e3bef3530a0c6f
+  ref: e262c2f1e1f720e5c76ebc03fc6e2b498f402b7f
   image_url: https://github.com/voila-gallery/cpp-xleaflet/raw/master/thumbnail.png
 
 - title: gpx-viewer
