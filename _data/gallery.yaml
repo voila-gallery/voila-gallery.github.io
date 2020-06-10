@@ -116,3 +116,10 @@
   ref: 4b4b45f419adc8e4e9e2a8983825f3ddff284211
   repo_url: https://github.com/mkcor/covid-plots
   image_url: https://raw.githubusercontent.com/mkcor/covid-plots/master/img/screenshot_covid_app.png
+  
+- title: covid-19-world-dashboard 
+  description: Interactive visualizations of the impact of covid-19 around the world 
+  url: voila/render/covid_19_dashboard.ipynb 
+  ref: 91b8046dfc51e0623700ece1372e64dc770ae71e
+  repo_url: https://github.com/sunnysinghnitb/covid-19-world-dashboard
+  image_url: https://raw.githubusercontent.com/sunnysinghnitb/covid-19-world-dashboard/master/thumbnail.png
