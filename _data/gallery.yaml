@@ -72,8 +72,8 @@
   description: A gradient descent computation using bqplot and the voila-material design template
   url: voila/render/gradient_descent.ipynb
   repo_url: https://github.com/voila-dashboards/voila-material
-  ref: 6e88fefc5a2619b77959c7013cb10bf2c3fd1f8e
-  image_url: https://raw.githubusercontent.com/voila-dashboards/voila-material/master/material_light.png
+  ref: a45bdcdcdaaab7086e3f4f36b50e6f30f6bf7094
+  image_url: https://raw.githubusercontent.com/voila-dashboards/voila-material/master/images/material_light.png
 
 - title: visium-clustergrammer2
   description: Visium Spatial Transcriptomics Data Visualization using Clustergrammer2
@@ -116,10 +116,10 @@
   ref: 4b4b45f419adc8e4e9e2a8983825f3ddff284211
   repo_url: https://github.com/mkcor/covid-plots
   image_url: https://raw.githubusercontent.com/mkcor/covid-plots/master/img/screenshot_covid_app.png
-  
-- title: covid-19-world-dashboard 
-  description: Interactive visualizations of the impact of covid-19 around the world 
-  url: voila/render/covid_19_dashboard.ipynb 
+
+- title: covid-19-world-dashboard
+  description: Interactive visualizations of the impact of covid-19 around the world
+  url: voila/render/covid_19_dashboard.ipynb
   ref: 91b8046dfc51e0623700ece1372e64dc770ae71e
   repo_url: https://github.com/sunnysinghnitb/covid-19-world-dashboard
   image_url: https://raw.githubusercontent.com/sunnysinghnitb/covid-19-world-dashboard/master/thumbnail.png
