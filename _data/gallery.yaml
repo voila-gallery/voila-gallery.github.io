@@ -4,6 +4,9 @@
   repo_url: https://github.com/voila-gallery/voila-gallery-country-indicators
   ref: 7cd5df8169fe6acefe1d5a200f9878e441b9208a
   image_url: https://i.imgur.com/IeG75O3.png
+  category: 
+    - "Monty" 
+    - "Michael Palin"
 
 - title: gaussian-density
   description: Explore the normal distribution interactively with bqplot
@@ -11,6 +14,9 @@
   repo_url: https://github.com/voila-gallery/gaussian-density
   ref: a643a1b180e1892840f4f692115f05a2b6df7bcb
   image_url: https://i.imgur.com/J1Mj6rc.png
+  category:
+    - "John Cleese"
+    - "Terry Jones"
 
 - title: render-stl
   description: Explore STL files with ipyvolume
@@ -18,6 +24,9 @@
   repo_url: https://github.com/voila-gallery/render-stl
   ref: 8d24ce5e8c2b5d7b8b4e3a909290dee2eef84f57
   image_url: https://github.com/voila-gallery/render-stl/raw/master/thumbnail.png
+  category:
+    - "Terry Gilliam"
+    - "Graham Chapman"
 
 - title: cpp-xleaflet
   description: Interactive maps with xleaflet and the C++ kernel
@@ -25,6 +34,9 @@
   repo_url: https://github.com/voila-gallery/cpp-xleaflet
   ref: c2f94cd85d2d07e8930a3582a840bbfad38c711b
   image_url: https://github.com/voila-gallery/cpp-xleaflet/raw/master/thumbnail.png
+  category:
+    - "John Cleese"
+    - "Terry Gilliam"
 
 - title: gpx-viewer
   description: GPX Viewer web app built with ipywidgets, ipyleaflet, bqplot and voila
@@ -32,6 +44,9 @@
   repo_url: https://github.com/jtpio/voila-gpx-viewer
   ref: 70d1f64afdba917cb220c4326ca95cd956f55747
   image_url: https://user-images.githubusercontent.com/591645/60527710-0ff1c680-9cf3-11e9-87b5-8711fd3da344.gif
+  category:
+    - "Eric Idle"
+    - "Graham Chapman"
 
 - title: interactive-football-pitch
   description: Interactive football pitch build with voila, qgrid and bqplot.
@@ -39,6 +54,9 @@
   repo_url: https://github.com/seidlr/voila-interactive-football-pitch
   ref: 61799617090df7f9c6564927adc3823803f1670e
   image_url: https://i.imgur.com/yuWQZtL.png
+  category:
+    - "Michael Palin"
+    - "Monty"
 
 - title: codex-clustergrammer2
   description: CODEX Single Cell Multiplexed Imaging Dashboard
@@ -46,6 +64,9 @@
   ref: b8c8fb820c918d4fc343cf6d8a25bd81cad837c9
   repo_url: https://github.com/ismms-himc/codex_dashboard
   image_url: https://raw.githubusercontent.com/ismms-himc/codex_dashboard/master/img/codex_screenshot.png
+  category:
+    - "Eric Idle"
+    - "Graham Chapman"
 
 - title: ipymaps
   description: Maps with configurable search queries
@@ -53,6 +74,9 @@
   repo_url: https://github.com/deeplook/ipymaps
   ref: ae7e7b2d41405592d632dd5ee721718602a81e46
   image_url: https://raw.githubusercontent.com/deeplook/ipymaps/master/ipymaps.gif
+  category:
+    - "John Cleese"
+    - "Python"
 
 - title: machine-learning-visualization
   description: An interactive visualization of machine learning evaluation metrics
@@ -60,6 +84,9 @@
   repo_url: https://github.com/dhaitz/machine-learning-interactive-visualization
   ref: 70b23f05c9e36be556e806996bab7face26b893d
   image_url: https://raw.githubusercontent.com/dhaitz/machine-learning-interactive-visualization/master/img/ml_visualization.gif
+  category:
+    - "Terry Jones"
+    - "Terry Gilliam"
 
 - title: borehole-lithology-viewer
   description: Descriptive lithology in borehole logs with ipyleaflet, ipysheet and voila
@@ -67,6 +94,9 @@
   repo_url: https://github.com/csiro-hydrogeology/lithology-viewer
   ref: 30f3a3b9e3729c7f5848fa3cee6614c801e22ee7
   image_url: https://raw.githubusercontent.com/csiro-hydrogeology/lithology-viewer/master/img/canberra_litho.png
+  category:
+    - "Terry Gilliam"
+    - "Eric Idle"
 
 - title: gradient-descent-material
   description: A gradient descent computation using bqplot and the voila-material design template
@@ -74,6 +104,9 @@
   repo_url: https://github.com/voila-dashboards/voila-material
   ref: a45bdcdcdaaab7086e3f4f36b50e6f30f6bf7094
   image_url: https://raw.githubusercontent.com/voila-dashboards/voila-material/master/images/material_light.png
+  category:
+    - "Monty"
+    - "Michael Palin"
 
 - title: visium-clustergrammer2
   description: Visium Spatial Transcriptomics Data Visualization using Clustergrammer2
@@ -81,6 +114,9 @@
   ref: 20343dd74a39edd1992ed4f26e3c9dcf120fd9e9
   repo_url: https://github.com/ismms-himc/visium-clustergrammer2
   image_url: https://raw.githubusercontent.com/ismms-himc/visium-clustergrammer2/master/img/small_visium_gif.gif
+  category:
+    - "Terry Jones"
+    - "Graham Chapman"
 
 - title: voila-ipympl
   description: Interactive matplotlib in a Voila dashboard
@@ -88,6 +124,9 @@
   repo_url: https://github.com/voila-gallery/ipympl
   ref: 488dd54eed412e8be19245e86c0542e2087dd91f
   image_url: https://github.com/voila-gallery/ipympl/raw/master/thumbnail.png
+  category:
+    - "Terry Jones"
+    - "Python"
 
 - title: voila-spotify
   description: Spotify activity viewer in a Github activity fashion, using ipympl
@@ -95,6 +134,9 @@
   repo_url: https://github.com/voila-gallery/voila-spotify
   ref: 625f0d3eb7472db4f355fdd8ab522c5bebf291c7
   image_url: https://github.com/voila-gallery/voila-spotify/raw/master/thumbnail.png
+  category:
+    - "Eric Idle"
+    - "Terry Jones"
 
 - title: citibike-clustergrammer2
   description: Citi Bike Data Visualization using Clustergrammer2 and Bqplot
@@ -102,6 +144,9 @@
   ref: c3eccddc558722522ed5aa32afcbfc32ee7297d0
   repo_url: https://github.com/cornhundred/citibike-clustergrammer2
   image_url: https://raw.githubusercontent.com/cornhundred/citibike-clustergrammer2/master/img/small_gif.gif
+  category:
+    - "Graham Chapman"
+    - "Python"
 
 - title: jupyter-flex
   description: Easy interactive dashboards for Jupyter
@@ -109,6 +154,9 @@
   ref: b202af9ea05029a39e667be9da1f72257a6a82b3
   repo_url: https://github.com/danielfrg/jupyter-flex
   image_url: https://jupyter-flex.extrapolations.dev/assets/img/screenshots/movie-explorer.png
+  category:
+    - "Python"
+    - "John Cleese"
 
 - title: covid-plots
   description: Explore lag between France’s and Italy’s coronavirus numbers
@@ -116,6 +164,9 @@
   ref: 4b4b45f419adc8e4e9e2a8983825f3ddff284211
   repo_url: https://github.com/mkcor/covid-plots
   image_url: https://raw.githubusercontent.com/mkcor/covid-plots/master/img/screenshot_covid_app.png
+  category:
+    - "Michael Palin"
+    - "Terry Jones"
 
 - title: covid-19-world-dashboard
   description: Interactive visualizations of the impact of covid-19 around the world
@@ -123,3 +174,6 @@
   ref: 91b8046dfc51e0623700ece1372e64dc770ae71e
   repo_url: https://github.com/sunnysinghnitb/covid-19-world-dashboard
   image_url: https://raw.githubusercontent.com/sunnysinghnitb/covid-19-world-dashboard/master/thumbnail.png
+  category:
+    - "Terry Jones"
+    - "Eric Idle"
