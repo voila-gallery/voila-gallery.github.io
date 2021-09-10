@@ -1,7 +1,7 @@
 - title: country-indicators
   description: Explore the correlations between indicators of development using matplotlib and ipywidgets
   url: voila/render/index.ipynb
-  repo_url: https://github.com/binder-examples/voila/
+  repo_url: https://github.com/binder-examples/voila
   ref: f77719dc1592a30500a303aae1b9ef0aedf29729
   image_url: https://i.imgur.com/IeG75O3.png
 
