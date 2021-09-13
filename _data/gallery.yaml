@@ -9,21 +9,21 @@
   description: Explore the normal distribution interactively with bqplot
   url: voila/render/index.ipynb
   repo_url: https://github.com/voila-gallery/gaussian-density
-  ref: a643a1b180e1892840f4f692115f05a2b6df7bcb
+  ref: HEAD
   image_url: https://i.imgur.com/J1Mj6rc.png
 
 - title: render-stl
   description: Explore STL files with ipyvolume
   url: voila/render/index.ipynb
   repo_url: https://github.com/voila-gallery/render-stl
-  ref: 8d24ce5e8c2b5d7b8b4e3a909290dee2eef84f57
+  ref: HEAD
   image_url: https://github.com/voila-gallery/render-stl/raw/master/thumbnail.png
 
 - title: cpp-xleaflet
   description: Interactive maps with xleaflet and the C++ kernel
   url: voila/render/index.ipynb
   repo_url: https://github.com/voila-gallery/cpp-xleaflet
-  ref: c2f94cd85d2d07e8930a3582a840bbfad38c711b
+  ref: HEAD
   image_url: https://github.com/voila-gallery/cpp-xleaflet/raw/master/thumbnail.png
 
 - title: gpx-viewer
@@ -72,7 +72,7 @@
   description: A gradient descent computation using bqplot and the voila-material design template
   url: voila/render/gradient_descent.ipynb
   repo_url: https://github.com/voila-dashboards/voila-material
-  ref: a45bdcdcdaaab7086e3f4f36b50e6f30f6bf7094
+  ref: HEAD
   image_url: https://raw.githubusercontent.com/voila-dashboards/voila-material/master/images/material_light.png
 
 - title: visium-clustergrammer2
@@ -86,14 +86,14 @@
   description: Interactive matplotlib in a Voila dashboard
   url: voila/render/ipympl.ipynb
   repo_url: https://github.com/voila-gallery/ipympl
-  ref: 488dd54eed412e8be19245e86c0542e2087dd91f
+  ref: HEAD
   image_url: https://github.com/voila-gallery/ipympl/raw/master/thumbnail.png
 
 - title: voila-spotify
   description: Spotify activity viewer in a Github activity fashion, using ipympl
   url: voila/render/Spotify_viewer.ipynb
   repo_url: https://github.com/voila-gallery/voila-spotify
-  ref: 625f0d3eb7472db4f355fdd8ab522c5bebf291c7
+  ref: HEAD
   image_url: https://github.com/voila-gallery/voila-spotify/raw/master/thumbnail.png
 
 - title: citibike-clustergrammer2
