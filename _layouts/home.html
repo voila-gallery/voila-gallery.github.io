@@ -3,6 +3,14 @@ layout: default
 title: voila gallery
 ---
 
+ <!-- Control buttons -->
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Montrer tout</button>
+  {% for category in site.data.categories %}
+  <button class="btn" onclick="filterSelection('{{ category.nom }}')"> {{ category.nom }}</button>
+  {% endfor %}
+</div>
+
 <div class="modal fade" id="loading_modal" tabindex="-1" role="dialog" aria-labelledby="spinner">
   <div class="modal-dialog modal-sm" role="document">
     <div class="modal-content">
@@ -16,14 +24,15 @@ title: voila gallery
 
 <div class="row no-gutters">
   {% for example in site.data.gallery %}
-  <div class="col-md-4" style="height: 400px; padding: 16px;">
+  <div class="col-md-4 filterDiv {{ example.category }} show" style="height: 400px; padding: 16px;">
     <input type="radio" name="example" id="example-{{ example.name }}" value="{{ example.name }}" class="d-none" />
-    <div class="gallery-item">
+    <div class="gallery-item {{ example.category }}">
       <div class="launch-item" style="height: 90%; padding: 8px;" id="example-{{ example.name }}"
            data-example-name="{{ example.title }}"
            data-example-url="{{ example.url }}"
            data-example-repo-url="{{ example.repo_url }}"
            data-example-ref="{{ example.ref }}"
+           data-example-category="{{ example.category }}"
       >
         <img style="height: 60%; width: 100%; object-fit: contain;" src="{{ example.image_url}}" />
         <div style="height: 40%; overflow: hidden;">
