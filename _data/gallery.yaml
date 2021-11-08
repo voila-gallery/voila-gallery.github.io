@@ -123,3 +123,10 @@
   ref: 91b8046dfc51e0623700ece1372e64dc770ae71e
   repo_url: https://github.com/sunnysinghnitb/covid-19-world-dashboard
   image_url: https://raw.githubusercontent.com/sunnysinghnitb/covid-19-world-dashboard/master/thumbnail.png
+  
+  - title: IexFinder: Interactive Symbolic Calculation of Extreme Values
+  description: Interactive Symbolic Calculation of Extreme Values
+  url: voila/render/IexFinder_voila.ipynb
+  ref: 
+  repo_url: https://github.com/zolabar/IexFinder
+  image_url: https://github.com/zolabar/IexFinder/blob/main/Figures/exFinder_usage_2.PNG
