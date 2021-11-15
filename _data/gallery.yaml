@@ -127,6 +127,6 @@
 - title: IexFinder
   description: Interactive Symbolic Calculation of Extreme Values
   url: voila/render/IexFinder_voila.ipynb
-  ref: b7695e406ae104f7aafe69f6c6619a6b25155295
+  ref: 9edb76e299885e4e7534d7c6253b053e247fcd1b
   repo_url: https://github.com/zolabar/IexFinder
-  image_url: https://github.com/zolabar/IexFinder/raw/main/Figures/exFinder_usage_2.PNG
+  image_url: https://github.com/zolabar/IexFinder/raw/main/Figures/exFinder_usage_4.PNG
