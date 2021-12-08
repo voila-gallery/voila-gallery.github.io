@@ -141,6 +141,6 @@
 - title: Radiation-Map
   description: Radiation map produced with data from the nuclear safety institute
   url: voila/render/Radiation.ipynb
-  ref: c1f8ae098a0b1ad1390bcd75d4419508a7bd0219
-  repo_url: https://github.com/MackyDIARRA/radiation.git
+  ref: a3fd14983c9152132052bf352fbdbf69492feef3
+  repo_url: https://github.com/MackyDIARRA/radiation
   image_url: https://user-images.githubusercontent.com/2397974/77835548-2166e280-714e-11ea-8ad4-fa5e5319b484.png
