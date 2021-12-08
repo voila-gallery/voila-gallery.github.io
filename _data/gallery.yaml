@@ -137,3 +137,10 @@
   ref: 7c017f0c6f3228948d35bcd5b2d3e93215951239
   repo_url: https://github.com/zolabar/Conformal-Maps
   image_url: https://github.com/zolabar/Conformal-Maps/raw/master/docs/source/GUI_cfmp.PNG
+
+- title: Radiation-Map
+  description: Radiation map produced with data from the nuclear safety institute
+  url: voila/render/Radiation.ipynb
+  ref: a3fd14983c9152132052bf352fbdbf69492feef3
+  repo_url: https://github.com/MackyDIARRA/radiation
+  image_url: https://user-images.githubusercontent.com/2397974/77835548-2166e280-714e-11ea-8ad4-fa5e5319b484.png
