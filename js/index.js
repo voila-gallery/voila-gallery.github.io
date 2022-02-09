@@ -4,9 +4,13 @@ $(document).ready(function() {
   $('.launch-item').click(function(event) {
     var name = $(event.currentTarget).data('example-name');
     var repoUrl = $(event.currentTarget).data('example-repo-url');
-    var url = $(event.currentTarget).data('example-url');
+    const urlList = $(event.currentTarget).data('example-url').split('?');
+    const url = urlList[0]
+    let query = ''
+    if(urlList[1]){
+      query = '&' + urlList[1]
+    }
     var ref = $(event.currentTarget).data('example-ref');
-
     // strip github.com from the repo url
     // TODO: handle other sources
     repoUrl = repoUrl.replace('https://github.com/', '');
@@ -28,7 +32,7 @@ $(document).ready(function() {
         evtSource.close();
         var redirectUrl = data.url;
         var token = data.token;
-        var redirect = redirectUrl + url + '?token=' + token;
+        var redirect = redirectUrl + url + '?token=' + token + query;
         $('#loader_text').html('Launching');
         window.location.href = redirect;
       }
