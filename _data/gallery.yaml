@@ -144,3 +144,10 @@
   ref: a3fd14983c9152132052bf352fbdbf69492feef3
   repo_url: https://github.com/MackyDIARRA/radiation
   image_url: https://user-images.githubusercontent.com/2397974/77835548-2166e280-714e-11ea-8ad4-fa5e5319b484.png
+
+- title: stock-dashboard
+  description: Stock dashboard with ipyvuetify and ipyflex
+  url: voila/render/dashboard.ipynb?voila-theme=dark
+  ref: 33963586ba7d6c4d26188fa1b7122b861c8f42c5
+  repo_url: https://github.com/trungleduc/stock-dashboard
+  image_url: https://user-images.githubusercontent.com/4451292/152875156-90b6eadf-1569-4d22-ab30-d3866e00ae9a.png
