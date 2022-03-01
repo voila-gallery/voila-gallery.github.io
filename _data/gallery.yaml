@@ -123,7 +123,7 @@
   ref: 91b8046dfc51e0623700ece1372e64dc770ae71e
   repo_url: https://github.com/sunnysinghnitb/covid-19-world-dashboard
   image_url: https://raw.githubusercontent.com/sunnysinghnitb/covid-19-world-dashboard/master/thumbnail.png
-  
+
 - title: IexFinder
   description: Interactive Symbolic Calculation of Extreme Values
   url: voila/render/IexFinder_voila.ipynb
@@ -151,3 +151,10 @@
   ref: 33963586ba7d6c4d26188fa1b7122b861c8f42c5
   repo_url: https://github.com/trungleduc/stock-dashboard
   image_url: https://user-images.githubusercontent.com/4451292/152875156-90b6eadf-1569-4d22-ab30-d3866e00ae9a.png
+
+- title: electricity-dashboard
+  description: Electricity dashboard with bqplot, ipyleaflet and ipyflex
+  url: voila/render/Electricity_map.ipynb
+  ref: bc672000170764a53906c46e8059f412a0b850f0
+  repo_url: https://github.com/voila-gallery/electricitymap_dashboard
+  image_url: https://user-images.githubusercontent.com/21197331/156176633-8727bdd6-be2a-47c4-8645-4460264f8e12.png
