@@ -127,14 +127,14 @@
 - title: IexFinder
   description: Interactive Symbolic Calculation of Extreme Values
   url: voila/render/IexFinder_voila.ipynb
-  ref: 9edb76e299885e4e7534d7c6253b053e247fcd1b
+  ref: dad960507d73ce6eb7cb918a51fa479fef882931
   repo_url: https://github.com/zolabar/IexFinder
-  image_url: https://github.com/zolabar/IexFinder/raw/main/Figures/exFinder_usage_4.PNG
+  image_url: https://github.com/zolabar/IexFinder/raw/main/Figures/exFinder_usage_5.PNG
 
 - title: Conformal-Maps
   description: Interactive Conformal Mappings with SymPy and Plotly
   url: voila/render/example_voila.ipynb
-  ref: 7c017f0c6f3228948d35bcd5b2d3e93215951239
+  ref: 08dd49ce1883ca462a7d99a278933802d11684bb
   repo_url: https://github.com/zolabar/Conformal-Maps
   image_url: https://github.com/zolabar/Conformal-Maps/raw/master/docs/source/GUI_cfmp.PNG
 
