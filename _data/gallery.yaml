@@ -108,7 +108,7 @@
   url: voila/render/examples/movie-explorer.ipynb
   ref: b202af9ea05029a39e667be9da1f72257a6a82b3
   repo_url: https://github.com/danielfrg/jupyter-flex
-  image_url: https://jupyter-flex.extrapolations.dev/assets/img/screenshots/movie-explorer.png
+  image_url: https://raw.githubusercontent.com/danielfrg/jupyter-flex/main/docs/assets/img/screenshots/jupyter_flex.tests.test_examples/apps_movie-explorer-reference.png
 
 - title: covid-plots
   description: Explore lag between France’s and Italy’s coronavirus numbers
@@ -126,7 +126,7 @@
 
 - title: IexFinder
   description: Interactive Symbolic Calculation of Extreme Values
-  url: voila/render/IexFinder_voila.ipynb
+  url: voila/render/iexfinder_voila.ipynb
   ref: dad960507d73ce6eb7cb918a51fa479fef882931
   repo_url: https://github.com/zolabar/IexFinder
   image_url: https://github.com/zolabar/IexFinder/raw/main/Figures/exFinder_usage_5.PNG
