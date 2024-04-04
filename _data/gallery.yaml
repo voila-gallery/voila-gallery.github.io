@@ -155,7 +155,7 @@
 - title: electricity-dashboard
   description: Electricity dashboard with bqplot, ipyleaflet and ipyflex
   url: voila/render/Main.ipynb
-  ref: d88f8aa85bb2914e9d2b13db42b173b658d1355d
+  ref: 11798615d53bdfe7cec97aab96491f36cc1851a4
   repo_url: https://github.com/voila-gallery/electricitymap_dashboard
   image_url: https://user-images.githubusercontent.com/21197331/156176633-8727bdd6-be2a-47c4-8645-4460264f8e12.png
   
