@@ -8,7 +8,7 @@ This is a gallery of [Voilà](https://github.com/voila-dashboards/voila)
 examples. Use this for inspiration on using Voilà and
 [ipywidgets](https://github.com/jupyter-widgets/ipywidgets).
 
-View the gallery at [voila-gallery.org](http://voila-gallery.org).
+View the gallery at [https://voila-gallery.github.io](https://voila-gallery.github.io)
 
 ## Contributing new examples
 
